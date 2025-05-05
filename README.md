@@ -26,6 +26,10 @@ Favorite Applications:
     - Curated recommendations
     - Connecting with friends
     - Smooth transitions between screens
+
+App Idea:
+  I would like to create my perfect weight lifting tracker app. It would allow the user to enter in their workouts, including their sets, reps, the weight, etc. and it will analyze the   data and keep track of their progress over time, and offer some nice visualizations too. And then, potentially, I’d want to expand it to be a social app similar to Strava. This would   mean being able to see friends’ workouts and compete with them or congratulate them when they set new PRs. Also, you might be able to see influencers’ workouts and do them yourself. 
+
     
 ## Notes
 I made a mistake when first connecting the button to the logic. When I made my changes, I encountered an error since the storyboard was looking for a button that no longer existed.
