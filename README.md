@@ -4,7 +4,7 @@ Submitted by: **Jalen DeLoney**
 
 **Background Changer** is an app that changes the background when the 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
